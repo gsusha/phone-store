@@ -1,0 +1,27 @@
+{
+  "XS": [
+    {
+      "img": "../img/goods/xs_gold.webp",
+      "memory": "256",
+      "color": "Gold",
+      "country": "Россия",
+      "price": "34000"
+    }
+  ],
+  "XS Max": [
+    {
+      "img": "../img/goods/xs_max_silver.webp",
+      "memory": "64",
+      "color": "Silver",
+      "country": "Россия",
+      "price": "35000"
+    },
+    {
+      "img": "../img/goods/xs_max_silver.webp",
+      "memory": "256",
+      "color": "Silver",
+      "country": "Россия",
+      "price": "38000"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "1" : {
+    "model" : "TV HD 32",
+    "img": "",
+    "country": "США",
+    "price": "11500"
+  },
+  "2" : {
+    "model" : "TV 32Gb 4K",
+    "img": "",
+    "country": "США",
+    "price": "12000"
+  },
+  "3" : {
+    "model" : "TV 64Gb 4K",
+    "img": "",
+    "country": "США",
+    "price": "13000"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "model" : "AirPods 2",
+    "img": "../img/goods/airpods2.jpg",
+    "country": "Европа",
+    "price": "7900"
+  },
+  {
+    "model" : "AirPods 3",
+    "img": "../img/goods/airpods3.png",
+    "country": "Европа",
+    "price": "12000"
+  },
+  {
+    "model" : "AirPods Pro MagSafe",
+    "img": "",
+    "country": "Европа",
+    "price": "12500"
+  },
+  {
+    "model" : "AirPods Pro 2 (2022) MagSafe",
+    "img": "",
+    "country": "США",
+    "price": "15500"
+  }
+]
