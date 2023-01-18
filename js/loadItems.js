@@ -3,7 +3,7 @@ let request = new XMLHttpRequest();
 // Записываем айдишник, куда пихать айтемы
 let store = document.getElementById('store');
 
-// Инициализируем наши кнопочки
+// Инициализируем наши кнопки
 const phones = document.querySelector("#phones-filter");
 const earphones = document.querySelector("#earphones-filter");
 const tv = document.querySelector("#tv-filter");
@@ -22,7 +22,42 @@ earphones.addEventListener("click", () => requestToJson('earphones'));
 tv.addEventListener("click", () => requestToJson('tv'));
 stuff.addEventListener("click", () => requestToJson('stuff'));
 
-//Функция отправки запроса и обработки данных
+// Функция получения эмодзи страны
+function getEmoji(country) {
+    switch (country) {
+        case "Россия":
+            return '🇷🇺';
+        case "США":
+            return '🇺🇸';
+        case "Япония":
+            return '🇯🇵';
+        case "Кувейт":
+            return '🇰🇼';
+        case "Индия":
+            return '🇮🇳';
+        case "Европа":
+            return '🇪🇺';
+        case "Гонконг":
+            return '🇭🇰';
+        case "Иордания":
+            return '🇯🇴';
+        case "Саудовская Аравия":
+            return '🇵🇸';
+        case "ОАЭ":
+            return '🇦🇪';
+        case "Китай":
+            return '🇨🇳';
+        default:
+            return '';
+    }
+}
+
+// Функция вывода цены по разрядам
+function priceWithSpaces(price) {
+    return price.replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+}
+
+// Функция отправки запроса и обработки данных
 function requestToJson(category) {
     // Отправляем запрос, парсим
     request.open("GET", `../data/${category}.json`, false);
@@ -34,36 +69,41 @@ function requestToJson(category) {
     // Начинаем перебирать жсон
     let items = "";
     for (let key in data) {
-        let versions = data[key];
+
+        // Товар
         items += '<div class="store__item">';
         // Название товара
-        items += '<div class="store__name">' + key + '</div>';
+        items += '<div class="store__name">' + data[key].model + '</div>';
 
-        // Слайдер
-        items += '<div class="swiper store__item-slider">';
-        items += '<div class="swiper-wrapper">';
+        // Содержимое
+        items += '<div class="store__item-content">';
 
-        for (let ver in versions) {
-            items += '<div class="swiper-slide">';
+        // Картинка
+        items += '<div class="store__img"><img src="' + data[key].img + '" alt=""></div>';
 
-            items += '<div class="store__img"><img src="' + versions[ver].img + '" alt=""></div>';
-            if (category === 'phones') {
-                items += '<div class="store__color">' + versions[ver].color + '</div>';
-                items += '<div class="store__memory">' + versions[ver].memory + '</div>';
-            }
-            if (category !== 'stuff') {
-                items += '<div class="store__country">' + versions[ver].country + '</div>';
-            }
-            items += '<div class="store__price">' + versions[ver].price + '</div>';
-            items += '<div class="store__btn"><button class="order-btn" onClick="openModal();">Заказать</button></div>';
-
-            items += '</div>'
+        // Тэги
+        items += '<div class="store__tags">';
+        // Если товар телефоны, то выводим также цвет и память
+        if (category === 'phones') {
+            items += '<div class="store__tag color">' + data[key].color + '</div>';
+            items += '<div class="store__tag memory">' + data[key].memory + ' ГБ</div>';
         }
-
+        // Если товар не аксессуар, то выводим страну
+        if (category !== 'stuff') {
+            items += '<div class="store__tag country">' + getEmoji(data[key].country) + '</div>';
+        }
+        // Конец тэгов
         items += '</div>'
-        items += '<div class="swiper-pagination"></div>';
+
+        // Цена
+        items += '<div class="store__price">' + priceWithSpaces(data[key].price) + ' ₽</div>';
+
+        items += '<div class="store__btn"><button class="order-btn" onClick="openModal();">Заказать</button></div>';
+
+        // Конец содержимого
         items += '</div>'
 
+        // Конец товара
         items += '</div>'
     }
 
@@ -80,13 +120,3 @@ function requestToJson(category) {
         });
     });
 }
-
-let swiper = new Swiper('store__item-slider', {
-    // Optional parameters
-    loop: true,
-
-    // If we need pagination
-    pagination: {
-        el: 'swiper-pagination',
-    },
-});

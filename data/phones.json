@@ -1,27 +1,322 @@
-{
-  "XS": [
-    {
-      "img": "../img/goods/xs_gold.webp",
-      "memory": "256",
-      "color": "Gold",
-      "country": "Россия",
-      "price": "34000"
-    }
-  ],
-  "XS Max": [
-    {
-      "img": "../img/goods/xs_max_silver.webp",
-      "memory": "64",
-      "color": "Silver",
-      "country": "Россия",
-      "price": "35000"
-    },
-    {
-      "img": "../img/goods/xs_max_silver.webp",
-      "memory": "256",
-      "color": "Silver",
-      "country": "Россия",
-      "price": "38000"
-    }
-  ]
-}
+[
+  {
+    "model": "XS",
+    "img": "../img/goods/xs_gold.webp",
+    "memory": "256",
+    "color": "Gold",
+    "country": "Россия",
+    "price": "34000"
+  },
+  {
+    "model": "XS Max",
+    "img": "../img/goods/xs_max_silver.webp",
+    "memory": "64",
+    "color": "Silver",
+    "country": "Россия",
+    "price": "35000"
+  },
+  {
+    "model": "XS Max",
+    "img": "../img/goods/xs_max_silver.webp",
+    "memory": "256",
+    "color": "Silver",
+    "country": "Россия",
+    "price": "38000"
+  },
+  {
+    "model": "SE 3",
+    "img": "",
+    "memory": "64",
+    "color": "White",
+    "country": "Япония",
+    "price": "22700"
+  },
+  {
+    "model": "SE 3",
+    "img": "",
+    "memory": "64",
+    "color": "Black",
+    "country": "Япония",
+    "price": "24000"
+  },
+  {
+    "model": "SE 3",
+    "img": "",
+    "memory": "128",
+    "color": "White",
+    "country": "Япония",
+    "price": "31000"
+  },
+  {
+    "model": "SE 3",
+    "img": "",
+    "memory": "128",
+    "color": "Black",
+    "country": "Япония",
+    "price": "31900"
+  },
+  {
+    "model": "SE 3",
+    "img": "",
+    "memory": "128",
+    "color": "Red",
+    "country": "Япония",
+    "price": "31000"
+  },
+  {
+    "model": "11",
+    "img": "",
+    "memory": "64",
+    "color": "Black",
+    "country": "Кувейт",
+    "price": "31200"
+  },
+  {
+    "model": "11",
+    "img": "",
+    "memory": "64",
+    "color": "White",
+    "country": "Кувейт",
+    "price": "31800"
+  },
+  {
+    "model": "11",
+    "img": "",
+    "memory": "64",
+    "color": "Purple",
+    "country": "Индия",
+    "price": "33900"
+  },
+  {
+    "model": "11",
+    "img": "",
+    "memory": "128",
+    "color": "Black",
+    "country": "Европа",
+    "price": "35300"
+  },
+  {
+    "model": "11",
+    "img": "",
+    "memory": "128",
+    "color": "White",
+    "country": "Гонконг",
+    "price": "35300"
+  },
+  {
+    "model": "11",
+    "img": "",
+    "memory": "128",
+    "color": "White",
+    "country": "Индия",
+    "price": "35300"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "64",
+    "color": "Green",
+    "country": "Кувейт",
+    "price": "37800"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "64",
+    "color": "Purple",
+    "country": "Иордания",
+    "price": "38900"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "128",
+    "color": "Blue",
+    "country": "Саудовская Аравия",
+    "price": "42200"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "128",
+    "color": "Black",
+    "country": "Саудовская Аравия",
+    "price": "42300"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "128",
+    "color": "White",
+    "country": "Саудовская Аравия",
+    "price": "42500"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "128",
+    "color": "Purple",
+    "country": "США",
+    "price": "43500"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "128",
+    "color": "Green",
+    "country": "Индия",
+    "price": "42800"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "128",
+    "color": "Red",
+    "country": "США",
+    "price": "42500"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "256",
+    "color": "Black",
+    "country": "США",
+    "price": "49500"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "256",
+    "color": "Blue",
+    "country": "США",
+    "price": "49500"
+  },
+  {
+    "model": "12",
+    "img": "",
+    "memory": "256",
+    "color": "White",
+    "country": "США",
+    "price": "42700"
+  },
+  {
+    "model": "13 Mini",
+    "img": "",
+    "memory": "128",
+    "color": "Starlight",
+    "country": "США",
+    "price": "45700"
+  },
+  {
+    "model": "13 Mini",
+    "img": "",
+    "memory": "128",
+    "color": "Green",
+    "country": "США",
+    "price": "45700"
+  },
+  {
+    "model": "13 Mini",
+    "img": "",
+    "memory": "128",
+    "color": "Pink",
+    "country": "США",
+    "price": "45500"
+  },
+  {
+    "model": "13 Mini",
+    "img": "",
+    "memory": "256",
+    "color": "Midnight",
+    "country": "ОАЭ",
+    "price": "54600"
+  },
+  {
+    "model": "13 Mini",
+    "img": "",
+    "memory": "256",
+    "color": "Starlight",
+    "country": "ОАЭ",
+    "price": "54600"
+  },
+  {
+    "model": "13 Mini",
+    "img": "",
+    "memory": "256",
+    "color": "Red",
+    "country": "ОАЭ",
+    "price": "54300"
+  },
+  {
+    "model": "13 Mini",
+    "img": "",
+    "memory": "256",
+    "color": "Pink",
+    "country": "США",
+    "price": "54500",
+  },
+  {
+    "model": "13 Mini",
+    "img": "",
+    "memory": "256",
+    "color": "Green",
+    "country": "США",
+    "price": "54700",
+  },
+  {
+    "model": "13 Mini",
+    "img": "",
+    "memory": "512",
+    "color": "Starlight",
+    "country": "США",
+    "price": "64000",
+  },
+  {
+    "model": "13",
+    "img": "",
+    "memory": "128",
+    "color": "Starlight",
+    "country": "Китай",
+    "price": "49500",
+  },
+  {
+    "model": "13",
+    "img": "",
+    "memory": "128",
+    "color": "Midnight",
+    "country": "Китай",
+    "price": "49500",
+  },
+  {
+    "model": "13",
+    "img": "",
+    "memory": "128",
+    "color": "Midnight",
+    "country": "Япония",
+    "price": "49500",
+  },
+  {
+    "model": "13",
+    "img": "",
+    "memory": "128",
+    "color": "Pink",
+    "country": "Китай",
+    "price": "49500",
+  },
+  {
+    "model": "13",
+    "img": "",
+    "memory": "128",
+    "color": "Red",
+    "country": "США",
+    "price": "49000",
+  },
+  {
+    "model": "13",
+    "img": "",
+    "memory": "128",
+    "color": "Green",
+    "country": "США",
+    "price": "49000",
+  }
+]
