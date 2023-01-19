@@ -24,6 +24,8 @@ body {
   position: relative;
   min-height: 100vh;
 
+  overflow: hidden;
+
   scroll-behavior: smooth;
 }
 
@@ -253,3 +255,56 @@ body {
     }
   }
 }
+
+/* Buy */
+
+.buy {
+  padding: 70px;
+  background: #161616;
+
+  .buy__body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    button {
+      display: inline-block;
+      border: 2px solid #fff;
+      padding: 6px 26px;
+      text-decoration: none;
+      color: #fff;
+      transition: 0.3s all ease;
+      background: transparent;
+
+      &:hover {
+        background: #fff;
+        color: #000;
+      }
+    }
+  }
+}
+
+.footer {
+  padding: 20px 20px;
+
+  .footer__body {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+
+    .footer__right {
+      a {
+        font-weight: 700;
+        color: #3B82F6;
+
+        &:hover {
+          color: #161616;
+        }
+      }
+    }
+  }
+}
+
+@import 'media.scss';
