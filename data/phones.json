@@ -1,692 +1,692 @@
 [ {
   "model" : "Xs Max",
-  "img" : "../img/goods/xs_max.webp",
+  "img" : "../img/goods/phones/xs_max_silver.webp",
   "memory" : "256 GB",
   "color" : "Silver",
   "country" : "🇷🇺",
   "price" : 38000
 }, {
   "model" : "SE 3",
-  "img" : "../img/goods/se_3.webp",
+  "img" : "../img/goods/phones/se_3_white.webp",
   "memory" : "64 GB",
   "color" : "White",
   "country" : "🇯🇵",
   "price" : 22700
 }, {
   "model" : "SE 3",
-  "img" : "../img/goods/se_3.webp",
+  "img" : "../img/goods/phones/se_3_black.webp",
   "memory" : "128 GB",
   "color" : "Black",
   "country" : "🇯🇵",
   "price" : 31900
 }, {
   "model" : "11",
-  "img" : "../img/goods/11.webp",
+  "img" : "../img/goods/phones/11_black.webp",
   "memory" : "64 GB",
   "color" : "black",
   "country" : "🇰🇼",
   "price" : 31200
 }, {
   "model" : "11",
-  "img" : "../img/goods/11.webp",
+  "img" : "../img/goods/phones/11_purple.webp",
   "memory" : "64 GB",
   "color" : "Purple",
   "country" : "🇮🇳",
   "price" : 33900
 }, {
   "model" : "11",
-  "img" : "../img/goods/11.webp",
+  "img" : "../img/goods/phones/11_black.webp",
   "memory" : "128 GB",
   "color" : "black",
   "country" : "🇪🇺",
   "price" : 35300
 }, {
   "model" : "12",
-  "img" : "../img/goods/12.webp",
+  "img" : "../img/goods/phones/12_purple.webp",
   "memory" : "64 GB",
   "color" : "purple",
   "country" : "🇯🇴",
   "price" : 38900
 }, {
   "model" : "12",
-  "img" : "../img/goods/12.webp",
+  "img" : "../img/goods/phones/12_blue.webp",
   "memory" : "128 GB",
   "color" : "Blue",
   "country" : "🇵🇸",
   "price" : 42200
 }, {
   "model" : "12",
-  "img" : "../img/goods/12.webp",
+  "img" : "../img/goods/phones/12_white.webp",
   "memory" : "128 GB",
   "color" : "white",
   "country" : "🇵🇸",
   "price" : 42500
 }, {
   "model" : "12",
-  "img" : "../img/goods/12.webp",
+  "img" : "../img/goods/phones/12_green.webp",
   "memory" : "128 GB",
   "color" : "Green",
   "country" : "🇮🇳",
   "price" : 42800
 }, {
   "model" : "12",
-  "img" : "../img/goods/12.webp",
+  "img" : "../img/goods/phones/12_blue.webp",
   "memory" : "256 GB",
   "color" : "Blue",
   "country" : "🇺🇸",
   "price" : 49500
 }, {
   "model" : "13 Mini",
-  "img" : "../img/goods/13_mini.webp",
+  "img" : "../img/goods/phones/13_mini_starlight.webp",
   "memory" : "128 GB",
   "color" : "Starlight",
   "country" : "🇺🇸",
   "price" : 45700
 }, {
   "model" : "13 Mini",
-  "img" : "../img/goods/13_mini.webp",
+  "img" : "../img/goods/phones/13_mini_pink.webp",
   "memory" : "128 GB",
   "color" : "Pink",
   "country" : "🇺🇸",
   "price" : 45500
 }, {
   "model" : "13 Mini",
-  "img" : "../img/goods/13_mini.webp",
+  "img" : "../img/goods/phones/13_mini_midnight.webp",
   "memory" : "256 GB",
   "color" : "Midnight",
   "country" : "🇦🇪",
   "price" : 54600
 }, {
   "model" : "13 Mini",
-  "img" : "../img/goods/13_mini.webp",
+  "img" : "../img/goods/phones/13_mini_red.webp",
   "memory" : "256 GB",
   "color" : "Red",
   "country" : "🇦🇪",
   "price" : 54300
 }, {
   "model" : "13 Mini",
-  "img" : "../img/goods/13_mini.webp",
+  "img" : "../img/goods/phones/13_mini_green.webp",
   "memory" : "256 GB",
   "color" : "Green",
   "country" : "🇺🇸",
   "price" : 54700
 }, {
   "model" : "13 Mini",
-  "img" : "../img/goods/13_mini.webp",
+  "img" : "../img/goods/phones/13_mini_starlight.webp",
   "memory" : "512 GB",
   "color" : "Starlight",
   "country" : "🇺🇸",
   "price" : 64000
 }, {
   "model" : "13",
-  "img" : "../img/goods/13.webp",
+  "img" : "../img/goods/phones/13_midnight.webp",
   "memory" : "128 GB",
   "color" : "Midnight",
   "country" : "🇯🇵🇨🇳",
   "price" : 49500
 }, {
   "model" : "13",
-  "img" : "../img/goods/13.webp",
+  "img" : "../img/goods/phones/13_red.webp",
   "memory" : "128 GB",
   "color" : "Red",
   "country" : "🇺🇸",
   "price" : 49000
 }, {
   "model" : "13",
-  "img" : "../img/goods/13.webp",
+  "img" : "../img/goods/phones/13_blue.webp",
   "memory" : "128 GB",
   "color" : "blue",
   "country" : "🇯🇵🇮🇳",
   "price" : 49500
 }, {
   "model" : "13",
-  "img" : "../img/goods/13.webp",
+  "img" : "../img/goods/phones/13_blue.webp",
   "memory" : "256 GB",
   "color" : "Blue",
   "country" : "🇺🇸",
   "price" : 58500
 }, {
   "model" : "13",
-  "img" : "../img/goods/13.webp",
+  "img" : "../img/goods/phones/13_midnight.webp",
   "memory" : "256 GB",
   "color" : "midnight",
   "country" : "🇯🇵🇺🇸",
   "price" : 58000
 }, {
   "model" : "13",
-  "img" : "../img/goods/13.webp",
+  "img" : "../img/goods/phones/13_blue.webp",
   "memory" : "512 GB",
   "color" : "Blue",
   "country" : "🇯🇴",
   "price" : 6100
 }, {
   "model" : "13",
-  "img" : "../img/goods/13.webp",
+  "img" : "../img/goods/phones/13_green.webp",
   "memory" : "512 GB",
   "color" : "Green",
   "country" : "🇺🇸",
   "price" : 63000
 }, {
   "model" : "13 Pro",
-  "img" : "../img/goods/13_pro.webp",
+  "img" : "../img/goods/phones/13_pro_gold.webp",
   "memory" : "128 GB",
   "color" : "Gold",
   "country" : "🇷🇺",
   "price" : 76000
 }, {
   "model" : "13 Pro",
-  "img" : "../img/goods/13_pro.webp",
+  "img" : "../img/goods/phones/13_pro_graphite.webp",
   "memory" : "256 GB",
   "color" : "Graphite",
   "country" : "🇭🇰",
   "price" : 76700
 }, {
   "model" : "13 Pro",
-  "img" : "../img/goods/13_pro.webp",
+  "img" : "../img/goods/phones/13_pro_blue.webp",
   "memory" : "256 GB",
   "color" : "Blue",
   "country" : "🇭🇰",
   "price" : 76700
 }, {
   "model" : "13 Pro",
-  "img" : "../img/goods/13_pro.webp",
+  "img" : "../img/goods/phones/13_pro_gold.webp",
   "memory" : "256 GB",
   "color" : "Gold",
   "country" : "🇯🇵",
   "price" : 77000
 }, {
   "model" : "13 Pro",
-  "img" : "../img/goods/13_pro.webp",
+  "img" : "../img/goods/phones/13_pro_graphite.webp",
   "memory" : "512 GB",
   "color" : "Graphite",
   "country" : "🇭🇰",
   "price" : 78900
 }, {
   "model" : "13 Pro",
-  "img" : "../img/goods/13_pro.webp",
+  "img" : "../img/goods/phones/13_pro_gold.webp",
   "memory" : "512 GB",
   "color" : "Gold",
   "country" : "🇭🇰",
   "price" : 78900
 }, {
   "model" : "13 Pro",
-  "img" : "../img/goods/13_pro.webp",
+  "img" : "../img/goods/phones/13_pro_green.webp",
   "memory" : "1 TB",
   "color" : "Green",
   "country" : "🇭🇰",
   "price" : 83500
 }, {
   "model" : "13 Pro Max",
-  "img" : "../img/goods/13_pro_max.webp",
+  "img" : "../img/goods/phones/13_pro_green.webp",
   "memory" : "128 GB",
   "color" : "Green",
   "country" : "🇵🇸",
   "price" : 72000
 }, {
   "model" : "13 Pro Max",
-  "img" : "../img/goods/13_pro_max.webp",
+  "img" : "../img/goods/phones/13_pro_green.webp",
   "memory" : "256 GB",
   "color" : "Green",
   "country" : "🇯🇵🇵🇸",
   "price" : 77900
 }, {
   "model" : "13 Pro Max",
-  "img" : "../img/goods/13_pro_max.webp",
+  "img" : "../img/goods/phones/13_pro_blue.webp",
   "memory" : "256 GB",
   "color" : "Blue",
   "country" : "🇺🇸🇪🇺",
   "price" : 82500
 }, {
   "model" : "13 Pro Max",
-  "img" : "../img/goods/13_pro_max.webp",
+  "img" : "../img/goods/phones/13_pro_green.webp",
   "memory" : "1 TB",
   "color" : "Green",
   "country" : "🇯🇴",
   "price" : 96000
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_starlight.webp",
   "memory" : "128 GB",
   "color" : "Starlight",
   "country" : "🇨🇳",
   "price" : 55800
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_blue.webp",
   "memory" : "128 GB",
   "color" : "Blue",
   "country" : "🇨🇳",
   "price" : 55800
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_purple.webp",
   "memory" : "128 GB",
   "color" : "purple",
   "country" : "🇯🇵",
   "price" : 56500
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_blue.webp",
   "memory" : "128 GB",
   "color" : "Blue",
   "country" : "🇺🇸",
   "price" : 51700
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_purple.webp",
   "memory" : "128 GB",
   "color" : "Purple",
   "country" : "🇺🇸",
   "price" : 51700
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_midnight.webp",
   "memory" : "256 GB",
   "color" : "Midnight",
   "country" : "🇨🇳",
   "price" : 62000
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_starlight.webp",
   "memory" : "256 GB",
   "color" : "Starlight",
   "country" : "🇯🇵",
   "price" : 64300
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_blue.webp",
   "memory" : "256 GB",
   "color" : "Blue",
   "country" : "🇺🇸",
   "price" : 58500
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_midnight.webp",
   "memory" : "256 GB",
   "color" : "Midnight",
   "country" : "🇺🇸",
   "price" : 58500
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_starlight.webp",
   "memory" : "256 GB",
   "color" : "Starlight",
   "country" : "🇺🇸",
   "price" : 58500
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_midnight.webp",
   "memory" : "512 GB",
-  "color" : "Mdnight",
+  "color" : "Midnight",
   "country" : "🇯🇵",
   "price" : 67800
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_starlight.webp",
   "memory" : "512 GB",
   "color" : "Starlight",
   "country" : "🇯🇵",
   "price" : 68000
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_red.webp",
   "memory" : "512 GB",
   "color" : "Red",
   "country" : "🇯🇵",
   "price" : 68900
 }, {
   "model" : "14",
-  "img" : "../img/goods/14.webp",
+  "img" : "../img/goods/phones/14_blue.webp",
   "memory" : "512 GB",
   "color" : "Blue",
   "country" : "🇺🇸",
   "price" : 63500
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_midnight.webp",
   "memory" : "128 GB",
   "color" : "Midnight",
   "country" : "🇺🇸",
   "price" : 56500
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_blue.webp",
   "memory" : "128 GB",
   "color" : "Blue",
   "country" : "🇺🇸",
   "price" : 58500
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_midnight.webp",
   "memory" : "256 GB",
   "color" : "Midnight",
   "country" : "🇯🇵",
   "price" : 64700
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_purple.webp",
   "memory" : "256 GB",
   "color" : "Purple",
   "country" : "🇯🇵",
   "price" : 64700
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_red.webp",
   "memory" : "256 GB",
   "color" : "Red",
   "country" : "🇺🇸",
   "price" : 63500
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_starlight.webp",
   "memory" : "256 GB",
   "color" : "Starlight",
   "country" : "🇺🇸",
   "price" : 60700
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_starlight.webp",
   "memory" : "512 GB",
   "color" : "Starlight",
   "country" : "🇯🇵",
   "price" : 73500
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_purple.webp",
   "memory" : "512 GB",
   "color" : "Purple",
   "country" : "🇯🇵",
   "price" : 73500
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_starlight.webp",
   "memory" : "512 GB",
   "color" : "Starlight",
   "country" : "🇺🇸",
   "price" : 67000
 }, {
   "model" : "14 Plus",
-  "img" : "../img/goods/14_plus.webp",
+  "img" : "../img/goods/phones/14_midnight.webp",
   "memory" : "512 GB",
   "color" : "Midnight",
   "country" : "🇺🇸",
   "price" : 66000
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "128 GB",
   "color" : "Silver",
   "country" : "🇯🇵",
   "price" : 85500
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_purple.webp",
   "memory" : "128 GB",
   "color" : "Purple",
   "country" : "🇯🇵",
   "price" : 85800
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "128 GB",
   "color" : "Black",
   "country" : "🇯🇵",
   "price" : 85800
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "128 GB",
   "color" : "Gold",
   "country" : "🇭🇰",
   "price" : 82900
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "128 GB",
   "color" : "Silver",
   "country" : "🇺🇸",
   "price" : 79000
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_purple.webp",
   "memory" : "128 GB",
   "color" : "Purple",
   "country" : "🇺🇸",
   "price" : 81500
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "256 GB",
   "color" : "Gold",
   "country" : "🇵🇸🇯🇵",
   "price" : 88500
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "256 GB",
   "color" : "Silver",
   "country" : "🇭🇰",
   "price" : 84300
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "256 GB",
   "color" : "Black",
   "country" : "🇯🇵",
   "price" : 91500
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_purple.webp",
   "memory" : "256 GB",
   "color" : "Purple",
   "country" : "🇸🇬🇯🇵",
   "price" : 92000
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "256 GB",
   "color" : "Silver",
   "country" : "🇺🇸",
   "price" : 84900
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_purple.webp",
   "memory" : "256 GB",
   "color" : "Purple",
   "country" : "🇺🇸",
   "price" : 83900
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_purple.webp",
   "memory" : "512 GB",
   "color" : "Purple",
   "country" : "🇭🇰",
   "price" : 107500
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "512 GB",
-  "color" : "silver",
+  "color" : "Silver",
   "country" : "🇯🇵",
   "price" : 108500
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "512 GB",
-  "color" : "gold",
+  "color" : "Gold",
   "country" : "🇯🇵",
   "price" : 99500
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "512 GB",
-  "color" : "black",
+  "color" : "Black",
   "country" : "🇯🇵",
   "price" : 108900
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "512 GB",
   "color" : "Gold",
   "country" : "🇺🇸",
   "price" : 97000
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "1 TB",
   "color" : "Silver",
   "country" : "🇯🇵",
   "price" : 122800
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "1 TB",
   "color" : "Gold",
   "country" : "🇯🇵",
   "price" : 112000
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "1 TB",
-  "color" : "black",
+  "color" : "Black",
   "country" : "🇺🇸",
   "price" : 101500
 }, {
   "model" : "14 Pro",
-  "img" : "../img/goods/14_pro.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "1 TB",
   "color" : "Silver",
   "country" : "🇺🇸",
   "price" : 101200
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "128 GB",
   "color" : "Gold",
   "country" : "🇯🇵",
   "price" : 84500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "128 GB",
   "color" : "Black",
   "country" : "🇭🇰",
   "price" : 87500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "128 GB",
   "color" : "Black",
   "country" : "🇺🇸",
   "price" : 85500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "128 GB",
   "color" : "Gold",
   "country" : "🇺🇸",
   "price" : 81000
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "256 GB",
   "color" : "Gold",
   "country" : "🇭🇰",
   "price" : 94500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "256 GB",
   "color" : "Silver",
   "country" : "🇭🇰",
   "price" : 93000
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "256 GB",
-  "color" : "black",
+  "color" : "Black",
   "country" : "🇭🇰",
   "price" : 95500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_purple.webp",
   "memory" : "256 GB",
   "color" : "Purple",
   "country" : "🇭🇰",
   "price" : 95000
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "256 GB",
   "color" : "Gold",
   "country" : "🇺🇸",
   "price" : 89000
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_purple.webp",
   "memory" : "256 GB",
   "color" : "Purple",
   "country" : "🇺🇸",
   "price" : 93000
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "512 GB",
-  "color" : "black",
+  "color" : "Black",
   "country" : "🇪🇺",
   "price" : 127500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "512 GB",
-  "color" : "silver",
+  "color" : "Silver",
   "country" : "🇪🇺",
   "price" : 124000
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_purple.webp",
   "memory" : "512 GB",
   "color" : "Purple",
   "country" : "🇯🇵",
   "price" : 129500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "512 GB",
   "color" : "Black",
   "country" : "🇺🇸",
   "price" : 114300
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_silver.webp",
   "memory" : "512 GB",
   "color" : "Silver",
   "country" : "🇺🇸",
   "price" : 112500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "1 TB",
-  "color" : "black",
+  "color" : "Black",
   "country" : "🇯🇵",
   "price" : 142000
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_gold.webp",
   "memory" : "1 TB",
   "color" : "Gold",
   "country" : "🇯🇵",
   "price" : 134500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_purple.webp",
   "memory" : "1 TB",
   "color" : "Purple",
   "country" : "🇭🇰",
   "price" : 136500
 }, {
   "model" : "14 Pro Max",
-  "img" : "../img/goods/14_pro_max.webp",
+  "img" : "../img/goods/phones/14_pro_black.webp",
   "memory" : "1 TB",
   "color" : "Black",
   "country" : "🇺🇸",

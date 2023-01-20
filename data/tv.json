@@ -1,19 +1,19 @@
 [
   {
     "model": "TV HD 32",
-    "img": "../img/goods/tv.webp",
+    "img": "../img/goods/tv/tv.webp",
     "country": "США",
     "price": "11500"
   },
   {
     "model": "TV 32Gb 4K",
-    "img": "../img/goods/tv.webp",
+    "img": "../img/goods/tv/tv.webp",
     "country": "США",
     "price": "12000"
   },
   {
     "model": "TV 64Gb 4K",
-    "img": "../img/goods/tv.webp",
+    "img": "../img/goods/tv/tv.webp",
     "country": "США",
     "price": "13000"
   }

@@ -1,0 +1,22 @@
+[
+  {
+    "model": "GoPro HERO 9 Black",
+    "img": "../img/goods/cam/go_pro_9.webp",
+    "price": "23500"
+  },
+  {
+    "model": "GoPro HERO 10 Black",
+    "img": "../img/goods/cam/go_pro_10.webp",
+    "price": "27500"
+  },
+  {
+    "model": "GoPro HERO 10 Black Special Bundle",
+    "img": "../img/goods/cam/go_pro_10.webp",
+    "price": "32000"
+  },
+  {
+    "model": "GoPro HERO 11 Black",
+    "img": "../img/goods/cam/go_pro_11.webp",
+    "price": "33000"
+  }
+]

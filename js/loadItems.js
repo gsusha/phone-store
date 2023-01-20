@@ -8,9 +8,11 @@ const phones = document.querySelector("#phones-filter");
 const earphones = document.querySelector("#earphones-filter");
 const tv = document.querySelector("#tv-filter");
 const stuff = document.querySelector("#stuff-filter");
+const ps = document.querySelector("#ps-filter");
+const cam = document.querySelector("#cam-filter");
 
 // Пихаем кнопки в массив
-let arr = [phones, earphones, tv, stuff];
+let arr = [phones, earphones, tv, stuff, ps, cam];
 
 // При загрузки страницы по умолчанию подгружаем телефоны, кнопка активна
 document.addEventListener("DOMContentLoaded", () => requestToJson('phones'));
@@ -21,36 +23,9 @@ phones.addEventListener("click", () => requestToJson('phones'));
 earphones.addEventListener("click", () => requestToJson('earphones'));
 tv.addEventListener("click", () => requestToJson('tv'));
 stuff.addEventListener("click", () => requestToJson('stuff'));
+ps.addEventListener("click", () => requestToJson('ps'));
+cam.addEventListener("click", () => requestToJson('cam'));
 
-// Функция получения эмодзи страны
-function getEmoji(country) {
-    switch (country) {
-        case "Россия":
-            return '🇷🇺';
-        case "США":
-            return '🇺🇸';
-        case "Япония":
-            return '🇯🇵';
-        case "Кувейт":
-            return '🇰🇼';
-        case "Индия":
-            return '🇮🇳';
-        case "Европа":
-            return '🇪🇺';
-        case "Гонконг":
-            return '🇭🇰';
-        case "Иордания":
-            return '🇯🇴';
-        case "Саудовская Аравия":
-            return '🇵🇸';
-        case "ОАЭ":
-            return '🇦🇪';
-        case "Китай":
-            return '🇨🇳';
-        default:
-            return '';
-    }
-}
 
 // Функция вывода цены по разрядам
 function formatPrice(price) {
@@ -107,11 +82,9 @@ function getStoreItem(category, data) {
                 if (category === 'phones') {
                     item += wrapDiv('store__tag color', data.color);
                     item += wrapDiv('store__tag memory', data.memory);
-                }
-                // Если товар не аксессуар, то выводим страну
-                if (category !== 'stuff') {
                     item += wrapDiv('store__tag country', data.country);
                 }
+
                 // Конец тэгов
             }
             item += '</div>'

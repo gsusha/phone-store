@@ -1,26 +1,82 @@
 [
   {
     "model" : "AirPods 2",
-    "img": "../img/goods/airpods2.webp",
-    "country": "Европа",
+    "img": "../img/goods/earphones/air_pods_2.webp",
     "price": "7900"
   },
   {
     "model" : "AirPods 3",
-    "img": "../img/goods/airpods3.png",
-    "country": "Европа",
+    "img": "../img/goods/earphones/air_pods_3.webp",
     "price": "12000"
   },
   {
     "model" : "AirPods Pro MagSafe",
-    "img": "",
-    "country": "Европа",
+    "img": "../img/goods/earphones/air_pods_pro.webp",
     "price": "12500"
   },
   {
     "model" : "AirPods Pro 2 (2022) MagSafe",
-    "img": "",
-    "country": "США",
+    "img": "../img/goods/earphones/air_pods_pro_2.webp",
     "price": "15500"
+  },
+  {
+    "model" : "Air Pods Max Black",
+    "img": "../img/goods/earphones/air_pods_max_black.webp",
+    "price": "39900"
+  },
+  {
+    "model" : "Air Pods Max Green",
+    "img": "../img/goods/earphones/air_pods_max_green.webp",
+    "price": "39700"
+  },
+  {
+    "model" : "Air Pods Max Blue",
+    "img": "../img/goods/earphones/air_pods_max_blue.webp",
+    "price": "39200"
+  },
+  {
+    "model" : "Airpods 2 Box",
+    "img": "../img/goods/earphones/air_pods_2_box.webp",
+    "price": "2500"
+  },
+  {
+    "model" : "Airpods 2 L",
+    "img": "../img/goods/earphones/air_pods_2_l.webp",
+    "price": "3500"
+  },
+  {
+    "model" : "Airpods 2 R",
+    "img": "../img/goods/earphones/air_pods_2_r.webp",
+    "price": "3500"
+  },
+  {
+    "model" : "Airpods 3 Box",
+    "img": "../img/goods/earphones/air_pods_3_box.webp",
+    "price": "4200"
+  },
+  {
+    "model" : "Airpods 3 L",
+    "img": "../img/goods/earphones/air_pods_3_l.webp",
+    "price": "4000"
+  },
+  {
+    "model" : "Airpods 3 R",
+    "img": "../img/goods/earphones/air_pods_3_r.webp",
+    "price": "4500"
+  },
+  {
+    "model" : "Airpods Pro Box",
+    "img": "../img/goods/earphones/air_pods_pro_box.webp",
+    "price": "4500"
+  },
+  {
+    "model" : "Airpods Pro L",
+    "img": "../img/goods/earphones/air_pods_pro_l.webp",
+    "price": "4500"
+  },
+  {
+    "model" : "Airpods Pro R",
+    "img": "../img/goods/earphones/air_pods_pro_r.webp",
+    "price": "5000"
   }
 ]

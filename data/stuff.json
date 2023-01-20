@@ -1,22 +1,22 @@
 [
   {
     "model": "AirTag",
-    "img": "",
+    "img": "../img/goods/stuff/air_tag.webp",
     "price": "3300"
   },
   {
     "model": "Зарядное устройство 20w",
-    "img": "",
+    "img": "../img/goods/stuff/20w.webp",
     "price": "2200"
   },
   {
     "model": "Pencil 1",
-    "img": "",
+    "img": "../img/goods/stuff/pencil_1.webp",
     "price": "6900"
   },
   {
     "model": "Pencil 2",
-    "img": "",
+    "img": "../img/goods/stuff/pencil_2.webp",
     "price": "8300"
   }
 ]
