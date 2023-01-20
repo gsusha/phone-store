@@ -17,6 +17,7 @@
 
   .store {
     .store__filter {
+      flex-wrap: wrap;
       .store__filter-item {
         font-size: 20px;
       }
@@ -98,16 +99,6 @@
   .store-title {
     .store-title__title {
       font-size: 50px;
-    }
-  }
-
-  .store {
-    .store__filter {
-      align-items: center;
-      flex-direction: column;
-      .store__filter-item {
-        margin: 4px 0;
-      }
     }
   }
 }
