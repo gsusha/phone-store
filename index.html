@@ -144,10 +144,12 @@
             И наши специалисты свяжутся с вами в ближайшее время!
         </p>
     </div>
-
-    <input type="text" id="name" placeholder="Иван Петров"/>
-    <input type="tel" id="phone" placeholder="+7 (960) 415-00-00"/>
-    <button class="modal__btn">Отправить</button>
+    <form action="php/send.php">
+        <input type="text" id="name" style="display: none"/>
+        <input type="text" id="buyer" placeholder="Иван Петров"/>
+        <input type="tel" id="tel" placeholder="+7 (960) 415-00-00"/>
+        <input type="submit" class="modal__btn" value="Отправить"/>
+    </form>
 </section>
 <div class="overlay hidden"></div>
 

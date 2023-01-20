@@ -218,6 +218,12 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 15px;
 }
 
+.modal form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .modal .flex {
   display: flex;
   align-items: center;
@@ -229,6 +235,9 @@ h1, h2, h3, h4, h5, h6 {
   border: 1px solid #ddd;
   border-radius: 5px;
   font-size: 0.9em;
+}
+.modal input:nth-child(2) {
+  margin-bottom: 10px;
 }
 
 .modal p {
