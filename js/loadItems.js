@@ -73,7 +73,7 @@ function getStoreItem(category, data) {
         item += '<div class="store__item-content">';
         {
             // Картинка
-            item += '<div class="store__img"><img src="' + data.img + '" alt=""></div>';
+            item += wrapDiv('store__img', `<img src="${data.img}" alt="${data.model}">`);
 
             // Тэги
             item += '<div class="store__tags">';
