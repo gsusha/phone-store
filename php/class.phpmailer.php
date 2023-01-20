@@ -3604,7 +3604,7 @@ class PHPMailer
             'gif'   => 'image/gif',
             'jpeg'  => 'image/jpeg',
             'jpe'   => 'image/jpeg',
-            'jpg'   => 'image/jpeg',
+            'webp'   => 'image/jpeg',
             'png'   => 'image/png',
             'tiff'  => 'image/tiff',
             'tif'   => 'image/tiff',
