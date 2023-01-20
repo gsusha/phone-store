@@ -1,322 +1,694 @@
-[
-  {
-    "model": "XS",
-    "img": "../img/goods/xs_gold.webp",
-    "memory": "256",
-    "color": "Gold",
-    "country": "Россия",
-    "price": "34000"
-  },
-  {
-    "model": "XS Max",
-    "img": "../img/goods/xs_max_silver.webp",
-    "memory": "64",
-    "color": "Silver",
-    "country": "Россия",
-    "price": "35000"
-  },
-  {
-    "model": "XS Max",
-    "img": "../img/goods/xs_max_silver.webp",
-    "memory": "256",
-    "color": "Silver",
-    "country": "Россия",
-    "price": "38000"
-  },
-  {
-    "model": "SE 3",
-    "img": "",
-    "memory": "64",
-    "color": "White",
-    "country": "Япония",
-    "price": "22700"
-  },
-  {
-    "model": "SE 3",
-    "img": "",
-    "memory": "64",
-    "color": "Black",
-    "country": "Япония",
-    "price": "24000"
-  },
-  {
-    "model": "SE 3",
-    "img": "",
-    "memory": "128",
-    "color": "White",
-    "country": "Япония",
-    "price": "31000"
-  },
-  {
-    "model": "SE 3",
-    "img": "",
-    "memory": "128",
-    "color": "Black",
-    "country": "Япония",
-    "price": "31900"
-  },
-  {
-    "model": "SE 3",
-    "img": "",
-    "memory": "128",
-    "color": "Red",
-    "country": "Япония",
-    "price": "31000"
-  },
-  {
-    "model": "11",
-    "img": "",
-    "memory": "64",
-    "color": "Black",
-    "country": "Кувейт",
-    "price": "31200"
-  },
-  {
-    "model": "11",
-    "img": "",
-    "memory": "64",
-    "color": "White",
-    "country": "Кувейт",
-    "price": "31800"
-  },
-  {
-    "model": "11",
-    "img": "",
-    "memory": "64",
-    "color": "Purple",
-    "country": "Индия",
-    "price": "33900"
-  },
-  {
-    "model": "11",
-    "img": "",
-    "memory": "128",
-    "color": "Black",
-    "country": "Европа",
-    "price": "35300"
-  },
-  {
-    "model": "11",
-    "img": "",
-    "memory": "128",
-    "color": "White",
-    "country": "Гонконг",
-    "price": "35300"
-  },
-  {
-    "model": "11",
-    "img": "",
-    "memory": "128",
-    "color": "White",
-    "country": "Индия",
-    "price": "35300"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "64",
-    "color": "Green",
-    "country": "Кувейт",
-    "price": "37800"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "64",
-    "color": "Purple",
-    "country": "Иордания",
-    "price": "38900"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "128",
-    "color": "Blue",
-    "country": "Саудовская Аравия",
-    "price": "42200"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "128",
-    "color": "Black",
-    "country": "Саудовская Аравия",
-    "price": "42300"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "128",
-    "color": "White",
-    "country": "Саудовская Аравия",
-    "price": "42500"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "128",
-    "color": "Purple",
-    "country": "США",
-    "price": "43500"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "128",
-    "color": "Green",
-    "country": "Индия",
-    "price": "42800"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "128",
-    "color": "Red",
-    "country": "США",
-    "price": "42500"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "256",
-    "color": "Black",
-    "country": "США",
-    "price": "49500"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "256",
-    "color": "Blue",
-    "country": "США",
-    "price": "49500"
-  },
-  {
-    "model": "12",
-    "img": "",
-    "memory": "256",
-    "color": "White",
-    "country": "США",
-    "price": "42700"
-  },
-  {
-    "model": "13 Mini",
-    "img": "",
-    "memory": "128",
-    "color": "Starlight",
-    "country": "США",
-    "price": "45700"
-  },
-  {
-    "model": "13 Mini",
-    "img": "",
-    "memory": "128",
-    "color": "Green",
-    "country": "США",
-    "price": "45700"
-  },
-  {
-    "model": "13 Mini",
-    "img": "",
-    "memory": "128",
-    "color": "Pink",
-    "country": "США",
-    "price": "45500"
-  },
-  {
-    "model": "13 Mini",
-    "img": "",
-    "memory": "256",
-    "color": "Midnight",
-    "country": "ОАЭ",
-    "price": "54600"
-  },
-  {
-    "model": "13 Mini",
-    "img": "",
-    "memory": "256",
-    "color": "Starlight",
-    "country": "ОАЭ",
-    "price": "54600"
-  },
-  {
-    "model": "13 Mini",
-    "img": "",
-    "memory": "256",
-    "color": "Red",
-    "country": "ОАЭ",
-    "price": "54300"
-  },
-  {
-    "model": "13 Mini",
-    "img": "",
-    "memory": "256",
-    "color": "Pink",
-    "country": "США",
-    "price": "54500",
-  },
-  {
-    "model": "13 Mini",
-    "img": "",
-    "memory": "256",
-    "color": "Green",
-    "country": "США",
-    "price": "54700",
-  },
-  {
-    "model": "13 Mini",
-    "img": "",
-    "memory": "512",
-    "color": "Starlight",
-    "country": "США",
-    "price": "64000",
-  },
-  {
-    "model": "13",
-    "img": "",
-    "memory": "128",
-    "color": "Starlight",
-    "country": "Китай",
-    "price": "49500",
-  },
-  {
-    "model": "13",
-    "img": "",
-    "memory": "128",
-    "color": "Midnight",
-    "country": "Китай",
-    "price": "49500",
-  },
-  {
-    "model": "13",
-    "img": "",
-    "memory": "128",
-    "color": "Midnight",
-    "country": "Япония",
-    "price": "49500",
-  },
-  {
-    "model": "13",
-    "img": "",
-    "memory": "128",
-    "color": "Pink",
-    "country": "Китай",
-    "price": "49500",
-  },
-  {
-    "model": "13",
-    "img": "",
-    "memory": "128",
-    "color": "Red",
-    "country": "США",
-    "price": "49000",
-  },
-  {
-    "model": "13",
-    "img": "",
-    "memory": "128",
-    "color": "Green",
-    "country": "США",
-    "price": "49000",
-  }
-]
+[ {
+  "model" : "Xs Max",
+  "img" : "xs_max",
+  "memory" : "256 GB",
+  "color" : "Silver",
+  "country" : "🇷🇺",
+  "price" : 38000
+}, {
+  "model" : "SE 3",
+  "img" : "se_3",
+  "memory" : "64 GB",
+  "color" : "White",
+  "country" : "🇯🇵",
+  "price" : 22700
+}, {
+  "model" : "SE 3",
+  "img" : "se_3",
+  "memory" : "128 GB",
+  "color" : "Black",
+  "country" : "🇯🇵",
+  "price" : 31900
+}, {
+  "model" : "11",
+  "img" : "11",
+  "memory" : "64 GB",
+  "color" : "black",
+  "country" : "🇰🇼",
+  "price" : 31200
+}, {
+  "model" : "11",
+  "img" : "11",
+  "memory" : "64 GB",
+  "color" : "Purple",
+  "country" : "🇮🇳",
+  "price" : 33900
+}, {
+  "model" : "11",
+  "img" : "11",
+  "memory" : "128 GB",
+  "color" : "black",
+  "country" : "🇪🇺",
+  "price" : 35300
+}, {
+  "model" : "12",
+  "img" : "12",
+  "memory" : "64 GB",
+  "color" : "purple",
+  "country" : "🇯🇴",
+  "price" : 38900
+}, {
+  "model" : "12",
+  "img" : "12",
+  "memory" : "128 GB",
+  "color" : "Blue",
+  "country" : "🇵🇸",
+  "price" : 42200
+}, {
+  "model" : "12",
+  "img" : "12",
+  "memory" : "128 GB",
+  "color" : "white",
+  "country" : "🇵🇸",
+  "price" : 42500
+}, {
+  "model" : "12",
+  "img" : "12",
+  "memory" : "128 GB",
+  "color" : "Green",
+  "country" : "🇮🇳",
+  "price" : 42800
+}, {
+  "model" : "12",
+  "img" : "12",
+  "memory" : "256 GB",
+  "color" : "Blue",
+  "country" : "🇺🇸",
+  "price" : 49500
+}, {
+  "model" : "13 Mini",
+  "img" : "13_mini",
+  "memory" : "128 GB",
+  "color" : "Starlight",
+  "country" : "🇺🇸",
+  "price" : 45700
+}, {
+  "model" : "13 Mini",
+  "img" : "13_mini",
+  "memory" : "128 GB",
+  "color" : "Pink",
+  "country" : "🇺🇸",
+  "price" : 45500
+}, {
+  "model" : "13 Mini",
+  "img" : "13_mini",
+  "memory" : "256 GB",
+  "color" : "Midnight",
+  "country" : "🇦🇪",
+  "price" : 54600
+}, {
+  "model" : "13 Mini",
+  "img" : "13_mini",
+  "memory" : "256 GB",
+  "color" : "Red",
+  "country" : "🇦🇪",
+  "price" : 54300
+}, {
+  "model" : "13 Mini",
+  "img" : "13_mini",
+  "memory" : "256 GB",
+  "color" : "Green",
+  "country" : "🇺🇸",
+  "price" : 54700
+}, {
+  "model" : "13 Mini",
+  "img" : "13_mini",
+  "memory" : "512 GB",
+  "color" : "Starlight",
+  "country" : "🇺🇸",
+  "price" : 64000
+}, {
+  "model" : "13",
+  "img" : "13",
+  "memory" : "128 GB",
+  "color" : "Midnight",
+  "country" : "🇯🇵🇨🇳",
+  "price" : 49500
+}, {
+  "model" : "13",
+  "img" : "13",
+  "memory" : "128 GB",
+  "color" : "Red",
+  "country" : "🇺🇸",
+  "price" : 49000
+}, {
+  "model" : "13",
+  "img" : "13",
+  "memory" : "128 GB",
+  "color" : "blue",
+  "country" : "🇯🇵🇮🇳",
+  "price" : 49500
+}, {
+  "model" : "13",
+  "img" : "13",
+  "memory" : "256 GB",
+  "color" : "Blue",
+  "country" : "🇺🇸",
+  "price" : 58500
+}, {
+  "model" : "13",
+  "img" : "13",
+  "memory" : "256 GB",
+  "color" : "midnight",
+  "country" : "🇯🇵🇺🇸",
+  "price" : 58000
+}, {
+  "model" : "13",
+  "img" : "13",
+  "memory" : "512 GB",
+  "color" : "Blue",
+  "country" : "🇯🇴",
+  "price" : 6100
+}, {
+  "model" : "13",
+  "img" : "13",
+  "memory" : "512 GB",
+  "color" : "Green",
+  "country" : "🇺🇸",
+  "price" : 63000
+}, {
+  "model" : "13 Pro",
+  "img" : "13_pro",
+  "memory" : "128 GB",
+  "color" : "Gold",
+  "country" : "🇷🇺",
+  "price" : 76000
+}, {
+  "model" : "13 Pro",
+  "img" : "13_pro",
+  "memory" : "256 GB",
+  "color" : "Graphite",
+  "country" : "🇭🇰",
+  "price" : 76700
+}, {
+  "model" : "13 Pro",
+  "img" : "13_pro",
+  "memory" : "256 GB",
+  "color" : "Blue",
+  "country" : "🇭🇰",
+  "price" : 76700
+}, {
+  "model" : "13 Pro",
+  "img" : "13_pro",
+  "memory" : "256 GB",
+  "color" : "Gold",
+  "country" : "🇯🇵",
+  "price" : 77000
+}, {
+  "model" : "13 Pro",
+  "img" : "13_pro",
+  "memory" : "512 GB",
+  "color" : "Graphite",
+  "country" : "🇭🇰",
+  "price" : 78900
+}, {
+  "model" : "13 Pro",
+  "img" : "13_pro",
+  "memory" : "512 GB",
+  "color" : "Gold",
+  "country" : "🇭🇰",
+  "price" : 78900
+}, {
+  "model" : "13 Pro",
+  "img" : "13_pro",
+  "memory" : "1 TB",
+  "color" : "Green",
+  "country" : "🇭🇰",
+  "price" : 83500
+}, {
+  "model" : "13 Pro Max",
+  "img" : "13_pro_max",
+  "memory" : "128 GB",
+  "color" : "Green",
+  "country" : "🇵🇸",
+  "price" : 72000
+}, {
+  "model" : "13 Pro Max",
+  "img" : "13_pro_max",
+  "memory" : "256 GB",
+  "color" : "Green",
+  "country" : "🇯🇵🇵🇸",
+  "price" : 77900
+}, {
+  "model" : "13 Pro Max",
+  "img" : "13_pro_max",
+  "memory" : "256 GB",
+  "color" : "Blue",
+  "country" : "🇺🇸🇪🇺",
+  "price" : 82500
+}, {
+  "model" : "13 Pro Max",
+  "img" : "13_pro_max",
+  "memory" : "1 TB",
+  "color" : "Green",
+  "country" : "🇯🇴",
+  "price" : 96000
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "128 GB",
+  "color" : "Starlight",
+  "country" : "🇨🇳",
+  "price" : 55800
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "128 GB",
+  "color" : "Blue",
+  "country" : "🇨🇳",
+  "price" : 55800
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "128 GB",
+  "color" : "purple",
+  "country" : "🇯🇵",
+  "price" : 56500
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "128 GB",
+  "color" : "Blue",
+  "country" : "🇺🇸",
+  "price" : 51700
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "128 GB",
+  "color" : "Purple",
+  "country" : "🇺🇸",
+  "price" : 51700
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "256 GB",
+  "color" : "Midnight",
+  "country" : "🇨🇳",
+  "price" : 62000
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "256 GB",
+  "color" : "Starlight",
+  "country" : "🇯🇵",
+  "price" : 64300
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "256 GB",
+  "color" : "Blue",
+  "country" : "🇺🇸",
+  "price" : 58500
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "256 GB",
+  "color" : "Midnight",
+  "country" : "🇺🇸",
+  "price" : 58500
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "256 GB",
+  "color" : "Starlight",
+  "country" : "🇺🇸",
+  "price" : 58500
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "512 GB",
+  "color" : "Mdnight",
+  "country" : "🇯🇵",
+  "price" : 67800
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "512 GB",
+  "color" : "Starlight",
+  "country" : "🇯🇵",
+  "price" : 68000
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "512 GB",
+  "color" : "Red",
+  "country" : "🇯🇵",
+  "price" : 68900
+}, {
+  "model" : "14",
+  "img" : "14",
+  "memory" : "512 GB",
+  "color" : "Blue",
+  "country" : "🇺🇸",
+  "price" : 63500
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "128 GB",
+  "color" : "Midnight",
+  "country" : "🇺🇸",
+  "price" : 56500
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "128 GB",
+  "color" : "Blue",
+  "country" : "🇺🇸",
+  "price" : 58500
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "256 GB",
+  "color" : "Midnight",
+  "country" : "🇯🇵",
+  "price" : 64700
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "256 GB",
+  "color" : "Purple",
+  "country" : "🇯🇵",
+  "price" : 64700
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "256 GB",
+  "color" : "Red",
+  "country" : "🇺🇸",
+  "price" : 63500
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "256 GB",
+  "color" : "Starlight",
+  "country" : "🇺🇸",
+  "price" : 60700
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "512 GB",
+  "color" : "Starlight",
+  "country" : "🇯🇵",
+  "price" : 73500
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "512 GB",
+  "color" : "Purple",
+  "country" : "🇯🇵",
+  "price" : 73500
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "512 GB",
+  "color" : "Starlight",
+  "country" : "🇺🇸",
+  "price" : 67000
+}, {
+  "model" : "14 Plus",
+  "img" : "14_plus",
+  "memory" : "512 GB",
+  "color" : "Midnight",
+  "country" : "🇺🇸",
+  "price" : 66000
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "128 GB",
+  "color" : "Silver",
+  "country" : "🇯🇵",
+  "price" : 85500
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "128 GB",
+  "color" : "Purple",
+  "country" : "🇯🇵",
+  "price" : 85800
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "128 GB",
+  "color" : "Black",
+  "country" : "🇯🇵",
+  "price" : 85800
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "128 GB",
+  "color" : "Gold",
+  "country" : "🇭🇰",
+  "price" : 82900
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "128 GB",
+  "color" : "Silver",
+  "country" : "🇺🇸",
+  "price" : 79000
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "128 GB",
+  "color" : "Purple",
+  "country" : "🇺🇸",
+  "price" : 81500
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "256 GB",
+  "color" : "Gold",
+  "country" : "🇵🇸🇯🇵",
+  "price" : 88500
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "256 GB",
+  "color" : "Silver",
+  "country" : "🇭🇰",
+  "price" : 84300
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "256 GB",
+  "color" : "Black",
+  "country" : "🇯🇵",
+  "price" : 91500
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "256 GB",
+  "color" : "Purple",
+  "country" : "🇸🇬🇯🇵",
+  "price" : 92000
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "256 GB",
+  "color" : "Silver",
+  "country" : "🇺🇸",
+  "price" : 84900
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "256 GB",
+  "color" : "Purple",
+  "country" : "🇺🇸",
+  "price" : 83900
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "512 GB",
+  "color" : "Purple",
+  "country" : "🇭🇰",
+  "price" : 107500
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "512 GB",
+  "color" : "silver",
+  "country" : "🇯🇵",
+  "price" : 108500
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "512 GB",
+  "color" : "gold",
+  "country" : "🇯🇵",
+  "price" : 99500
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "512 GB",
+  "color" : "black",
+  "country" : "🇯🇵",
+  "price" : 108900
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "512 GB",
+  "color" : "Gold",
+  "country" : "🇺🇸",
+  "price" : 97000
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "1 TB",
+  "color" : "Silver",
+  "country" : "🇯🇵",
+  "price" : 122800
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "1 TB",
+  "color" : "Gold",
+  "country" : "🇯🇵",
+  "price" : 112000
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "1 TB",
+  "color" : "black",
+  "country" : "🇺🇸",
+  "price" : 101500
+}, {
+  "model" : "14 Pro",
+  "img" : "14_pro",
+  "memory" : "1 TB",
+  "color" : "Silver",
+  "country" : "🇺🇸",
+  "price" : 101200
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "128 GB",
+  "color" : "Gold",
+  "country" : "🇯🇵",
+  "price" : 84500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "128 GB",
+  "color" : "Black",
+  "country" : "🇭🇰",
+  "price" : 87500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "128 GB",
+  "color" : "Black",
+  "country" : "🇺🇸",
+  "price" : 85500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "128 GB",
+  "color" : "Gold",
+  "country" : "🇺🇸",
+  "price" : 81000
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "256 GB",
+  "color" : "Gold",
+  "country" : "🇭🇰",
+  "price" : 94500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "256 GB",
+  "color" : "Silver",
+  "country" : "🇭🇰",
+  "price" : 93000
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "256 GB",
+  "color" : "black",
+  "country" : "🇭🇰",
+  "price" : 95500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "256 GB",
+  "color" : "Purple",
+  "country" : "🇭🇰",
+  "price" : 95000
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "256 GB",
+  "color" : "Gold",
+  "country" : "🇺🇸",
+  "price" : 89000
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "256 GB",
+  "color" : "Purple",
+  "country" : "🇺🇸",
+  "price" : 93000
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "512 GB",
+  "color" : "black",
+  "country" : "🇪🇺",
+  "price" : 127500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "512 GB",
+  "color" : "silver",
+  "country" : "🇪🇺",
+  "price" : 124000
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "512 GB",
+  "color" : "Purple",
+  "country" : "🇯🇵",
+  "price" : 129500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "512 GB",
+  "color" : "Black",
+  "country" : "🇺🇸",
+  "price" : 114300
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "512 GB",
+  "color" : "Silver",
+  "country" : "🇺🇸",
+  "price" : 112500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "1 TB",
+  "color" : "black",
+  "country" : "🇯🇵",
+  "price" : 142000
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "1 TB",
+  "color" : "Gold",
+  "country" : "🇯🇵",
+  "price" : 134500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "1 TB",
+  "color" : "Purple",
+  "country" : "🇭🇰",
+  "price" : 136500
+}, {
+  "model" : "14 Pro Max",
+  "img" : "14_pro_max",
+  "memory" : "1 TB",
+  "color" : "Black",
+  "country" : "🇺🇸",
+  "price" : 125000
+} ]

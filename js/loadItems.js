@@ -53,8 +53,8 @@ function getEmoji(country) {
 }
 
 // Функция вывода цены по разрядам
-function priceWithSpaces(price) {
-    return price.replace(/\B(?=(\d{3})+(?!\d))/g, " ");
+function formatPrice(price) {
+    return price.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
 }
 
 // Функция отправки запроса и обработки данных
@@ -69,42 +69,7 @@ function requestToJson(category) {
     // Начинаем перебирать жсон
     let items = "";
     for (let key in data) {
-
-        // Товар
-        items += '<div class="store__item">';
-        // Название товара
-        items += '<div class="store__name">' + data[key].model + '</div>';
-
-        // Содержимое
-        items += '<div class="store__item-content">';
-
-        // Картинка
-        items += '<div class="store__img"><img src="' + data[key].img + '" alt=""></div>';
-
-        // Тэги
-        items += '<div class="store__tags">';
-        // Если товар телефоны, то выводим также цвет и память
-        if (category === 'phones') {
-            items += '<div class="store__tag color">' + data[key].color + '</div>';
-            items += '<div class="store__tag memory">' + data[key].memory + ' ГБ</div>';
-        }
-        // Если товар не аксессуар, то выводим страну
-        if (category !== 'stuff') {
-            items += '<div class="store__tag country">' + getEmoji(data[key].country) + '</div>';
-        }
-        // Конец тэгов
-        items += '</div>'
-
-        // Цена
-        items += '<div class="store__price">' + priceWithSpaces(data[key].price) + ' ₽</div>';
-
-        items += '<div class="store__btn"><button class="order-btn" onClick="openModal();">Заказать</button></div>';
-
-        // Конец содержимого
-        items += '</div>'
-
-        // Конец товара
-        items += '</div>'
+        items += getStoreItem(category, data[key]);
     }
 
     // Суём в нужное место в HTML
@@ -119,4 +84,57 @@ function requestToJson(category) {
                 .forEach((item) => item.classList.remove("active"));
         });
     });
+}
+
+function getStoreItem(category, data) {
+    let item = '';
+    // Товар
+    item += '<div class="store__item">';
+    {
+        // Название товара
+        item += wrapH4('store__name', data.model);
+
+        // Содержимое
+        item += '<div class="store__item-content">';
+        {
+            // Картинка
+            item += '<div class="store__img"><img src="' + data.img + '" alt=""></div>';
+
+            // Тэги
+            item += '<div class="store__tags">';
+            {
+                // Если товар телефоны, то выводим также цвет и память
+                if (category === 'phones') {
+                    item += wrapDiv('store__tag color', data.color);
+                    item += wrapDiv('store__tag memory', data.memory);
+                }
+                // Если товар не аксессуар, то выводим страну
+                if (category !== 'stuff') {
+                    item += wrapDiv('store__tag country', data.country);
+                }
+                // Конец тэгов
+            }
+            item += '</div>'
+
+            // Цена
+            let price = formatPrice(data.price) + ' ₽';
+            item += wrapDiv('store__price', price);
+
+            let button = '<button class="order-btn" onClick="openModal();">Заказать</button>';
+            item += wrapDiv('store__btn', button);
+        }
+        // Конец содержимого
+        item += '</div>'
+    }
+    // Конец товара
+    item += '</div>'
+    return item;
+}
+
+function wrapDiv(style, content) {
+    return `<div class="${style}">${content}</div>`
+}
+
+function wrapH4(style, content) {
+    return `<h4 class="${style}">${content}</h4>`
 }
